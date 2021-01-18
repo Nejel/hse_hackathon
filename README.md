@@ -1,2 +1,5 @@
-# hse_hackathon
-DH Hackathon of 2021 in HSE
+# STAND BY
+
+## Here will be something soon
+
+Here will be something soon
