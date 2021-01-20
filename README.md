@@ -1,3 +1,3 @@
-# STAND BY
+# All clear
 
-Here will be something soon
+Look inside Jupyter Notebook
